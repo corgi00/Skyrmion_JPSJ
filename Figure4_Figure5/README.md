@@ -1,5 +1,5 @@
 ## Figure 4 and Figure 5
-This folder contains the data and scripts used to reproduce Figure 4 and Figure 5.
+This folder contains script used to reproduce Figure 4 and Figure 5.
 
 ### Description
 The local Chern marker along the lines `a`, `b` and `c` shown in Figs. 3, and the local Chern marker along the central 12 sites of lines `b` and `c`.
